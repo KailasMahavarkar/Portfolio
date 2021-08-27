@@ -1,0 +1,21 @@
+/** @format */
+body {
+  background-color: #1D1D1D;
+}
+
+.red {
+  background-color: #e70404;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar {
+  border: 1px solid violet;
+  display: flex;
+  flex-direction: column;
+  width: 10%;
+}
+/*# sourceMappingURL=index.css.map */
